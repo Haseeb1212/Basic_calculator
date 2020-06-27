@@ -1,0 +1,31 @@
+h1{text-align: center;}
+.main{
+
+    border: 3px solid grey ;
+    width:250px;
+    margin: 0 auto;
+}
+.result{
+    width: 97%;
+    background-color: rgb(128, 22, 22);
+color: #ffffff;
+}
+.clearbtn{
+    width: 100%;
+    background-color: burlywood;
+    margin-top: 7px;
+
+    
+}
+.btn{
+    background-color: chocolate;
+    width: 55px;
+    margin: 2px;
+    margin-top: 2px;
+}
+.halfbtn{
+    width: 49%;
+    background-color: greenyellow;
+    margin-top: 5px;
+}
+
